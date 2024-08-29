@@ -59,7 +59,7 @@
     <img src="https://github.com/gauravbaghel7228/gauravbaghel7228/blob/85247e74949a60855be871082fb7686b37852a05/icons/Html%205.gif" alt="GIF" width="80">
     <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" alt="GIF" width="80">
     <img src="https://user-images.githubusercontent.com/74038190/212281780-0afd9616-8310-46e9-a898-c4f5269f1387.gif" alt="GIF" width="80">
-    <img src="https://github.com/gauravbaghel7228/gauravbaghel7228/blob/85247e74949a60855be871082fb7686b37852a05/icons/icons8-java%20(1).gif" alt="GIF" width="70">
+    <img src="icons8-java (1) (1).gif" alt="GIF" width="70">
     
 
 
