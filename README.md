@@ -66,7 +66,7 @@
 </div>
 <br>
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=gauravbaghel7228&label=Profile%20views&color=0e75b6&style=flat" alt="thenameisvir"/>
+    <img src="https://komarev.com/ghpvc/?username=gauravbaghel7228&label=Profile%20views&color=0e75b6&style=flat" alt="gauravbaghel7228"/>
 </p>
 <br>
 
