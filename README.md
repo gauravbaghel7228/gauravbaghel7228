@@ -55,7 +55,7 @@
     <img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" alt="GIF" width="60">
     <img src="wired-lineal-1321-html-5-code-language.gif" alt="GIF" width="80">
     <img src="wired-lineal-1213-snake.gif" alt="GIF" width="80">
-    <img src="https://github.com/gauravbaghel7228/gauravbaghel7228/blob/85247e74949a60855be871082fb7686b37852a05/icons/wired-flat-742-code.gif" alt="GIF" width="80">
+    <img src="wired-flat-742-code (1).gif" alt="GIF" width="80">
     <img src="Html 5 (1).gif" width="80">
     <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" alt="GIF" width="80">
     <img src="https://user-images.githubusercontent.com/74038190/212281780-0afd9616-8310-46e9-a898-c4f5269f1387.gif" alt="GIF" width="80">
