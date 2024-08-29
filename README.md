@@ -37,8 +37,8 @@
     <h2>Connect with me:</h2>
     <a href="https://x.com/Garv7228" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yoyomanki" height="30" width="40" /></a>
     <a href="https://www.linkedin.com/in/gaurav-baghel-093174251/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Gaurav Baghel" height="30" width="40" /></a>
-    <a href="https://fb.com/madhur-solanki" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="madhur solanki" height="30" width="40" /></a>
-    <a href="https://instagram.com/thenameisvir" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gauravbaghel7228" height="30" width="40" /></a>
+    <a href="https://www.facebook.com/profile.php?id=100053823503881" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="madhur solanki" height="30" width="40" /></a>
+    <a href="https://www.instagram.com/_garv.n/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gauravbaghel7228" height="30" width="40" /></a>
     <a href="https://leetcode.com/u/_gaurav7228/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gauravbaghel7228" height="30" width="40" /></a>
     <a href="https://www.geeksforgeeks.org/user/gauravbd6uq/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="gauravbaghel7228" height="30" width="40" /></a>
 </div>
